@@ -8,7 +8,9 @@ Insert a few sentences about what/who Red Team Robinhood is.
 
 ## Team Members 
 
-- William Baur: [LinkedIn](https://www.linkedin.com/in/williamrbaur/) [GitHub](https://github.com/Wrbaur)
+- William Baur: [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/williamrbaur/)
+&nbsp;
+[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/Wrbaur)
 - Renona Gay: [LinkedIn](https://www.linkedin.com/in/renona-g-57935912a/) [GitHub](https://github.com/Foodisthebest)
 - Heraldo Morales: [LinkedIn](https://www.linkedin.com/in/heraldo-morales/) [GitHub](https://github.com/HeraldoM332)
 - Mike Sineiro: [LinkedIn](https://www.linkedin.com/in/michael-sineiro-4784b517b/) [GitHub](https://github.com/KrustyKode)
